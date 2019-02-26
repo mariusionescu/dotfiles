@@ -1,0 +1,4 @@
+[DEFAULT]
+editor = vim
+extension = .md
+notes_dir = ~/Dropbox/Notes
